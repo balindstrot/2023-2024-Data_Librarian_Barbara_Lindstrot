@@ -1,0 +1,2 @@
+sed -e '/^#/d' -e '/IMPOTANT/d' -e '/ISSN: /d' -e '/issn:/d' -e '/Issn:/d' -e '/ISSN:/d' 2023-11-20-Article_list_dirty.txt | cut -f5,12 2023-11-20-Article_list_dirty.txt | sed -e '/^\s/d' -e '/eng/d' -e '/^#/d' -e '/ISSN:/d' -e '/issn:\s/d' -e '/Issn:\s*/d' | sort -n | uniq > ergebnis.tsv
+
