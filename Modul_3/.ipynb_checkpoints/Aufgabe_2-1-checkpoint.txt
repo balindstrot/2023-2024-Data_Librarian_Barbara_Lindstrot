@@ -1,0 +1,16 @@
+2.1 Grundbegriffe
+
+1. Der Datensatz hat 14 Merkmale
+2. Die Stichprobengröße sind 436291 Einträge
+3. Die Merkmalsträger sind die Nutzer der Bibliothek
+4. Die Daten wurden von 2003 bis 2023 erhoben
+5. Ja, es handelt sich um eine Vollerhebung, weil alle Nutzer der Bibliothek erfasst sind.
+6. Total Checkouts oder Renewals sind diskrete Werte, weil sie nur ganzzahlige Werte enthalten (Man kann nicht nur ein halbes Buch ausleihen)
+7. Metrische Skala: "Patron Type Code", "Home Library Code"
+   Nominale Skala: "Notice Preference Definition"
+   Ordinale Skala: "Age Range"
+8. Ja, der Datensatz enthällt NULL-Werte
+9. Es handelt sich um Längsschnitt-Daten, da alle Nutzer der letzten zehn Jahre erfasst wurden.
+
+   
+
