@@ -1,0 +1,12 @@
+Arbeitsspeicher Rechner:
+
+~930 MB Standby
+~10 MB freier Arbeitsspeicher
+~7000 MB in Verwendung
+~195 MB reserviert für Hardware
+
+10 MB = 1e+7 Byte = 10.000.000 Byte/8 = 1.250.000 int64
+
+
+
+
