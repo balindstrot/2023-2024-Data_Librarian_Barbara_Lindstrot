@@ -1,0 +1,7 @@
+Auffälligkeiten der Fox-News-Diagramme:
+
+- Die Balkendiagramme beginnen nicht bei Null
+- Die Höhe der Säule ist somit nicht proportional zur Häufigkeit
+- Es entsteht optisch der Eindruck eines größeren Unterschiedes der beiden Vergleichsgrößen
+
+- Ich würde die Höhe proportional zur Häufigkeit darstellen und das Diagramm bei Null auf der "X-Achse" beginnen lassen.
